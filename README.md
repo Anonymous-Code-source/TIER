@@ -21,9 +21,7 @@ The current hierarchical Stage 3 tasks are:
 
 `force` is trained as a continuous regression target, not as a low/mid/high classification label. The target is computed from the recorded force components:
 
-```text
-force = sqrt(force_x^2 + force_y^2 + force_z^2)
-```
+
 
 ## Main Files
 
