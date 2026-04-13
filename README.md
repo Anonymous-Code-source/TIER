@@ -19,8 +19,6 @@ The current hierarchical Stage 3 tasks are:
 - Interaction layer: deformation
 - Contact layer: slippage, rotation, force
 
-`force` is trained as a continuous regression target, not as a low/mid/high classification label. The target is computed from the recorded force components:
-
 
 
 ## Main Files
