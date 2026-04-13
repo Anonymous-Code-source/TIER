@@ -1,0 +1,9 @@
+CLIP-ViT-L-14-DataComp.XL-s13B-b90K/
+log/
+wandb/
+Temper/
+Tacquad/
+Stage3_method_w/log/
+Stage3_method_w/log_hierarchical/
+Stage3_method_w/testing/
+Causal_data/
